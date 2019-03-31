@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Leveron here, I like learning!
+Aditional blah blah blaah
